@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+What if we made an app that, wait for it....., lets users login and save their favorite links!
+
+Using React, Node.js, and Graphql.
 
 ## Available Scripts
 
